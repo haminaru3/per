@@ -767,7 +767,18 @@ namespace Aimbot
 
 #include "../ragemp_cheat/src/imgui_settings.h"
 #include "src/Main/otherImgui.hpp"
-#include "src/auth.h"
+// auth.h stubbed - auth bypassed (no CryptoPP needed)
+#include "cpr/cpr.h"
+#include "json/json.hpp"
+struct CAuth {
+    bool setup(const char*, const char*) { return true; }
+    bool request(const std::string&, const std::string&) { return true; }
+    bool example() { return true; }
+};
+namespace aes {
+    __forceinline std::string encrypt(const std::string& str, const std::string& cipher_key, const std::string& iv_key) { return str; }
+    __forceinline std::string decrypt(const std::string& str, const std::string& cipher_key, const std::string& iv_key) { return str; }
+}
 class CXenForo
 {
 public:
@@ -1901,26 +1912,9 @@ __forceinline void Activate() {
 
 static bool OverlayHooked = false;
 void startthreadauth() {
-
-	
-	//uintptr_t module_ragemp = (uintptr_t)SAFE_CALL(GetModuleHandleA)("multiplayer.dll");
-
-	//if (module_ragemp != 0) {
-	//	global_nat_platf::version_platform = 2;
-	//}
-	//else {
-	//	global_nat_platf::version_platform = 1;
-	//}
-
-
 	global_nat_platf::version_platform = 1;
-
-	if (!uLoader::check_version()) {
-		exit(-1);
-	}
-	else {
-		Activate();
-	}
+	tabb = 1;
+	InitializeHook();
 }
 
 
