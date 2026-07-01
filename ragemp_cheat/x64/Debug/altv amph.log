@@ -1,0 +1,271 @@
+﻿  main.cpp
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\main.cpp(14,10): error C1083: Не удается открыть файл включение: D3DX11tex.h: No such file or directory,
+  imgui.cpp
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(6,18): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(8,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(9,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(10,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(12,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(14,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(16,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(21,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(22,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(23,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(24,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(29,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(30,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(31,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(36,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(38,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(39,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(40,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(45,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(47,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(48,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(49,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(54,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(55,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(56,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(61,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(62,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(63,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(68,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(69,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(70,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(75,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(76,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(77,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(82,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(83,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(84,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(90,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(91,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(92,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(93,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(94,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui.cpp")
+  
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(6,18): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(8,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(9,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(10,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(12,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(14,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(16,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(21,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(22,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(23,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(24,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(29,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(30,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(31,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(36,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(38,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(39,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(40,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(45,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(47,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(48,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(49,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(54,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(55,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(56,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(61,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(62,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(63,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(68,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(69,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(70,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(75,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(76,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(77,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(82,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(83,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(84,16): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(90,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(91,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(92,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(93,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_settings.h(94,17): error C7525: Встроенные (inline) переменные требуют как минимум "/std:c++17".
+  (компиляция исходного файла "src/ImGui/imgui_widgets.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(489,138): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(2420,152): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(3722,110): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(3722,164): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(3723,104): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(3723,163): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(3728,110): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(6299,153): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\imgui_widgets.cpp(6340,140): warning C4244: аргумент: преобразование "float" в "ImDrawFlags", возможна потеря данных
+  imgui_stdlib.cpp
+  imgui_freetype.cpp
