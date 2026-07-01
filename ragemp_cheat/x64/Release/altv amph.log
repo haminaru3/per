@@ -1,0 +1,46 @@
+﻿  main.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_stdlib.cpp
+  imgui_freetype.cpp
+  CLuaHook.cpp
+  ResourceManager.cpp
+  texteditor.cpp
+  Vector.cpp
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\ImGui\misc\freetype\imgui_freetype.cpp(41,10): error C1083: Не удается открыть файл включение: ft2build.h: No such file or directory,
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\vector(1224,17): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+  (компиляция исходного файла "src/texteditor.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\vector(1224,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\texteditor.cpp(251,14):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::insert<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,_Iter,_Iter)"
+          with
+          [
+              _Ty=TextEditor::Glyph,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<TextEditor::Glyph>>>
+          ]
+              C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\texteditor.cpp(251,20):
+              см. первую ссылку на "std::vector<TextEditor::Glyph,std::allocator<TextEditor::Glyph>>::insert" в "TextEditor::DeleteRange"
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\vector(1282,13):
+          выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<TextEditor::Glyph,std::allocator<TextEditor::Glyph>>::_Insert_counted_range<TextEditor::Glyph*>(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,_Iter,const unsigned __int64)"
+          with
+          [
+              _Ty=TextEditor::Glyph,
+              _Iter=TextEditor::Glyph *
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.44.35207\include\ppltasks.h(1580,21): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\eclipse\Desktop\altv-amph-su-master\ragemp_cheat\src\auth.h(4,10): error C1083: Не удается открыть файл включение: D:\sourca\Loader\libs\CryptoPP\aes.h: No such file or directory,
+  (компиляция исходного файла "main.cpp")
+  
